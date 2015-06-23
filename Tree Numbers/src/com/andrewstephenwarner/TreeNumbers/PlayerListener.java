@@ -13,7 +13,7 @@ public class PlayerListener implements Listener {
 	
 	static TreeNumbers plugin;
 	
-	public PlayerListener(TreeNumbers iawwh){
+	public PlayerListener(TreeNumbers i){
 		plugin = i;
 	}
 	
